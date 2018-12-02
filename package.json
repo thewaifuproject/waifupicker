@@ -1,0 +1,15 @@
+{
+  "name": "waifupicker",
+  "version": "1.0.0",
+  "description": "Visualize and edit waifu data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "body": "^5.1.0"
+  }
+}
