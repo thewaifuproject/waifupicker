@@ -1,4 +1,4 @@
-#waifupicker
+# waifupicker
 
 Visualize and edit waifu data
 
