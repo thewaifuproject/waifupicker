@@ -1,0 +1,94 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>WaifuWiki</sitename>
+    <dbname>wikidb</dbname>
+    <base>https://waifu.wiki/index.php/Main_Page</base>
+    <generator>MediaWiki 1.31.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">WaifuWiki</namespace>
+      <namespace key="5" case="first-letter">WaifuWiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>1</id>
+      <timestamp>2018-12-05T22:52:52Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="735">&lt;strong&gt;MediaWiki has been installed.&lt;/strong&gt;
+
+Consult the [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents User's Guide] for information on using the wiki software.
+
+== Getting started ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Configuration settings list]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ MediaWiki FAQ]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Localise MediaWiki for your language]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Learn how to combat spam on your wiki]</text>
+      <sha1>a5wehuldd0go2uniagwvx66n6c80irq</sha1>
+    </revision>
+    <revision>
+      <id>2</id>
+      <parentid>1</parentid>
+      <timestamp>2018-12-05T23:06:27Z</timestamp>
+      <contributor>
+        <username>God</username>
+        <id>1</id>
+      </contributor>
+      <comment>Improve main page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="177">&lt;strong&gt;Welcome weeb&lt;/strong&gt;
+
+[https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents git gud] or read [https://www.youtube.com/watch?v=dQw4w9WgXcQ:Contents the guide]</text>
+      <sha1>le2m1bz8b0nqtb3n294sgou78k83ljf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Waifu</title>
+    <ns>0</ns>
+    <id>2</id>
+    <revision>
+      <id>3</id>
+      <timestamp>2018-12-06T15:39:59Z</timestamp>
+      <contributor>
+        <username>God</username>
+        <id>1</id>
+      </contributor>
+      <comment>Add waifu</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="170">Waifu
+{{Infobox waifu
+| name          = Waifu
+| image         = &lt;!-- filename only, no &quot;File:&quot; or &quot;Image:&quot; prefix, and no enclosing [[brackets]] --&gt;
+}}
+[[Category:Waifu]]</text>
+      <sha1>mtrhcn4j3se8z6tq1nbblypv9a430yz</sha1>
+    </revision>
+  </page>
+</mediawiki>
